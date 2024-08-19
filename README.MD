@@ -9,7 +9,7 @@ The Menu App is a RESTful API application built using Express.js and MongoDB. It
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kaushiktak19/menu-app.git
 cd menu-app
 ```
 
